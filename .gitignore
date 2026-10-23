@@ -1,0 +1,34 @@
+# Compilação Maven e Binários
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs e Arquivos Temporários
+*.log
+*.tmp
+*.bak
+
+# IDEs e Editores
+.idea/
+*.iml
+*.iws
+*.ipr
+nbproject/private/
+build/
+dist/
+.vscode/
+.settings/
+.classpath
+.project
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variáveis de Ambiente e Credenciais
+.env
+.env.*
+*.secret
